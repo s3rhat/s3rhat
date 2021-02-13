@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: 1-syllabus.html
+    - text: "Terrain Colors"
+      href: 3-inline.html
